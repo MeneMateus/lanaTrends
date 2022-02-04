@@ -1,0 +1,74 @@
+.lanaTrends__carousel {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    flex-direction: column;
+}
+
+.lanaTrends__carousel-links_containerA{
+    display: flex;
+    background-color: #CB9C7E;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+
+.lanaTrends__carousel-links_containerA p {
+    font-family: var(--font-family);
+    color: rgb(255, 255, 255);
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.lanaTrends__carousel-links_containerB {
+    /* background-image: url("../../assets/carousel.jpg"); */
+    height: 580px;
+}
+
+.lanaTrends__carousel-links_containerC {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    flex-direction: column;
+}
+
+
+.lanaTrends__containerC-title h1 {
+    color: #3E8ED8;
+    font-size: 3rem;
+}
+
+
+.lanaTrends__containerC-title {
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.lanaTrends__containerC-cards {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+.lanaTrends__carousel-links_containerD {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-bottom: 10px;
+}
+
+.lanaTrends__carousel-links_containerD p {
+    font-family: var(--font-family);
+    padding-top: 2%;
+    background-color: rgb(187, 187, 187);
+    line-height: 25px;
+    padding-bottom: 2%;
+}
